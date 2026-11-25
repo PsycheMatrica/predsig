@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this software and report the version used in your analysis."
+type: software
+title: "predsig: Software for predictive significance testing"
+authors:
+  - family-names: Cho
+    given-names: Gyeongcheol
+version: 0.3.0
+url: "https://github.com/PsycheMatrica/predsig/"
+repository-artifact: "https://github.com/PsycheMatrica/predsig"
+abstract: "MATLAB and R packages for predictive significance testing. Version 0.3.0 supports confirmatory linear regression."
+license: CC-BY-NC-SA-4.0
